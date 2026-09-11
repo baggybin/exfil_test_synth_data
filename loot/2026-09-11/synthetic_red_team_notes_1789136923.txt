@@ -1,0 +1,19 @@
+SYNTHETIC DATA - PRODUCTION CONTROL TEST
+
+Exercise: Project Lantern
+Scenario ID: RT-EX-2026-0911
+Owner: Morgan Ellis (fictional)
+Environment: PRODUCTION TEST
+
+Test indicators:
+- Hostname: rt-prodtest-ws-042.example.test
+- User: svc_redteam_demo
+- Ticket: INC-FAKE-78421
+- API token marker: FAKE_TOKEN_DO_NOT_USE_7F3A9C
+- Customer reference: CUST-SYN-10482
+
+Notes:
+1. All names, organisations, emails, identifiers, amounts, and events in this file are fabricated.
+2. The example.test domain is reserved for documentation and testing.
+3. No credentials in this file are valid.
+4. This corpus is intended for an authorised production control test using synthetic data.
