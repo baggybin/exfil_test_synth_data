@@ -1,0 +1,6 @@
+record_id,contact_name,email,organisation,created_date,status,amount,data_classification
+RT-1001,Ava Mercer,ava.mercer@example.test,Northwind Simulation,2026-09-01,Open,"GBP 12,450",SYNTHETIC
+RT-1002,Noah Bennett,noah.bennett@example.test,Contoso Red Test,2026-09-03,Review,"GBP 8,975",SYNTHETIC
+RT-1003,Mila Shah,mila.shah@example.test,Fabrikam Exercise,2026-09-05,Closed,"GBP 15,220",SYNTHETIC
+RT-1004,Leo Carter,leo.carter@example.test,Adventure Works Test,2026-09-08,Open,"GBP 6,310",SYNTHETIC
+RT-1005,Ivy Thompson,ivy.thompson@example.test,Tailspin Demo,2026-09-10,Escalated,"GBP 19,840",SYNTHETIC
